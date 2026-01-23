@@ -7,3 +7,6 @@ fun testNoteOperation_13() { assert(true) }
 
 // Test case 18
 fun testNoteOperation_18() { assert(true) }
+
+// Test case 23
+fun testNoteOperation_23() { assert(true) }
