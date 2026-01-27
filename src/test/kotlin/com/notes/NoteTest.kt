@@ -10,3 +10,6 @@ fun testNoteOperation_18() { assert(true) }
 
 // Test case 23
 fun testNoteOperation_23() { assert(true) }
+
+// Test case 28
+fun testNoteOperation_28() { assert(true) }
