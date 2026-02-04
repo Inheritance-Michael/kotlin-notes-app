@@ -13,3 +13,6 @@ fun queryNoteOption_26() = "Query 26 processed"
 
 // Note service method 31
 fun queryNoteOption_31() = "Query 31 processed"
+
+// Note service method 36
+fun queryNoteOption_36() = "Query 36 processed"
