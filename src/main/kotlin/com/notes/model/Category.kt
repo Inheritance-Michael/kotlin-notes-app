@@ -22,3 +22,6 @@ data class SubCategory_39(val name: String)
 
 // Category definition 44
 data class SubCategory_44(val name: String)
+
+// Category definition 49
+data class SubCategory_49(val name: String)
