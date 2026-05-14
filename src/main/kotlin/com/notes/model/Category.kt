@@ -64,3 +64,6 @@ data class SubCategory_109(val name: String)
 
 // Category definition 114
 data class SubCategory_114(val name: String)
+
+// Category definition 119
+data class SubCategory_119(val name: String)
