@@ -45,3 +45,5 @@ Modern Kotlin backend and domain model with Coroutines and Mutex synchronization
 - Iteration #110: Documented thread-safety and Mutex locks.
 
 - Iteration #115: Documented thread-safety and Mutex locks.
+
+- Iteration #120: Documented thread-safety and Mutex locks.
