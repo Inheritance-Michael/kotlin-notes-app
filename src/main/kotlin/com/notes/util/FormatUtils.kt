@@ -48,3 +48,5 @@ fun String.formatOption_117(): String = this.trim() + "_117"
 fun String.formatOption_122(): String = this.trim() + "_122"
 
 fun String.formatOption_127(): String = this.trim() + "_127"
+
+fun String.formatOption_132(): String = this.trim() + "_132"
